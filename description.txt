@@ -1,0 +1,42 @@
+Are you a Linux beginner or IT professional looking to become an expert at Linux administration and the Linux command line? This course will introduce you to creating your first virtual machine and the command syntax for Linux. Learn how to become a system administrator with this Linux essentials course.
+ Gain insight into the fact that every time you run a command, you have an option as well as an argument.
+ 
+  An option modifies the command, changing how it performs whilst an argument indicates where the command fulfils its action,
+   usually on a file or series of files. Imagine understanding 
+   how to change the permissions of your files and directories in Linux to protect them from being viewed or deleted by other users.
+   
+    This knowledge is possible because Unix allows you to protect every file and directory in your account by using 
+	different access permissions. You will explore the three types of permissions which are to read, write and execute.
+
+At first, you will be introduced to the process of setting up your lab, downloading the necessary software, 
+and the method of installing and configuring Linux. Find out how to assign permissions to files and directories 
+using numerical values to users and groups. What help commands do you use in a Linux environment? 
+Recognise the three types of help commands that will give you information about other commands as you study this course. 
+Discover how running the tab button on your keyboard completes your directory or command that you are trying to run 
+and how the up arrow key returns your last run command. These two keys will save you a lot of time and make you far 
+more efficient at your work. Gain insight into pipes, which the shell uses to connect the output of 
+one command directly to the input of another command.
+
+
+Are you a Linux beginner or IT professional looking to become an expert at Linux administration and the Linux command line? 
+This Linux tutorial for beginners will introduce you to creating your first virtual machine and the command syntax for Linux. 
+The content covers system administration, the options for running a command, and how arguments (also known as command line arguments)
+ fulfill actions on a file or series of files. Unix is another theme that will be discussed -
+  this is all about changing permissions on files and includes how to grant the three types of permissions,
+   which are read, write and execute.
+
+At first, you will be introduced to the process of setting up your lab, downloading the necessary software,
+ and the method of installing and configuring Linux. Permissions using numerical values for users and groups, 
+ the various kinds of commands, keyboard shortcuts and
+  that the Linux shell uses “pipes” to connect the output of one command directly to the input of another command.
+   Next, you will learn about all the commands used to display the contents of a file and those used to maintain your files.
+    The different text processor commands which give Linux an advantage over other operating systems is essential to understand 
+	because these commands allow you to cut your content to your desired output, list your content using the columns
+	 and search for specific keywords in a file - all of which is covered in-depth. Your learning also includes 
+	 which commands modify user attributes such as the home directory, user group, and user identification number
+	  as well as system utility commands, system monitoring commands, 
+	  system maintenance commands and how to recover the root password. 
+
+Learn Linux and open the doors to endless career possibilities in the world of system administration and even IT security. 
+Enrolling in this course will improve your technical knowledge of Linux and Unix and you will be well 
+on your way to becoming a Linux expert.
